@@ -1,5 +1,5 @@
-.idea/
-web/
+.idea
+web
 tmp/*.log
 tmp/cache/*.txt
 tmp/cache/*.tmp
